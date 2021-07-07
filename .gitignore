@@ -143,4 +143,5 @@ requirements.txt
 .vscode
 
 data
-
+notebooks/checkpoints-*
+notebooks/wandb
