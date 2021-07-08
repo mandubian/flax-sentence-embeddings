@@ -143,5 +143,7 @@ requirements.txt
 .vscode
 
 data
+notebooks/checkpoints
 notebooks/checkpoints-*
 notebooks/wandb
+code-search-net
